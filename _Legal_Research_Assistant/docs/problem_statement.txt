@@ -1,0 +1,7 @@
+Project: AI Legal Research Assistant
+
+Problem Statement:
+Finding relevant legal information is difficult.
+
+Solution Statement:
+Search and summarize relevant legal documents.
